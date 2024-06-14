@@ -49,6 +49,7 @@ Also in non-interactive mode by piping command to the executable console file:
 $ echo "help" | ./console.py
 (hbnb)
 
+
 Documented commands (type help <topic>):
 ========================================
 EOF help quit
